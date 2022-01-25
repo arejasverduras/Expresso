@@ -1,4 +1,4 @@
-# Expresso: PROJECT COMPLETED!
+# Expresso
 
 ## Project Overview
 
